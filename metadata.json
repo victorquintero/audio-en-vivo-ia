@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Live Audio",
+  "description": "Experimente el chat de voz en tiempo real con imágenes 3D reaccionando a su conversación, dando vida a la interacción de IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
